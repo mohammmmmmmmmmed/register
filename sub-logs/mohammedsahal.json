@@ -1,0 +1,18 @@
+{
+    "repo": "https://github.com/mohammmmmmmmmmed/personal-website",
+  
+    "owner": {
+      "username": "mohammmmmmmmmmed",
+      "email": "mohammedsahal0085@gmail.com"
+    },
+  
+    "target": {
+      "record-type": {
+         "name": "mohammedsahal", 
+         "value": "mohammedsahal.is-a-good.dev"
+       }
+    },
+  
+    "proxied": false
+  }
+  
